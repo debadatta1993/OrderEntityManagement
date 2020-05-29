@@ -3,8 +3,8 @@ package com.javainuse;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("I am into git:1010101");
 
+		System.out.println("I am into Git:abcd");
 	}
 
 }
